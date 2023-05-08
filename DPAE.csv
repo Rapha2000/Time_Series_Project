@@ -1,0 +1,557 @@
+﻿Année;Trimestre;Dernier jour du mois;Durée de contrat;Nature de contrat;DPAE (brut);DPAE (cvs)
+2000;1;2000-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;222287;321417
+2000;1;2000-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;267406;324373
+2000;2;2000-04-30;Contrat de plus d'un mois;CDI;274633;282960
+2000;2;2000-05-31;Contrat de plus d'un mois;CDI;256064;283773
+2000;2;2000-06-30;Contrat de plus d'un mois;CDI;248450;280461
+2000;3;2000-07-31;Contrat de plus d'un mois;CDI;244460;282616
+2000;4;2000-11-30;Contrat de plus d'un mois;CDI;298927;297091
+2000;4;2000-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;203868;315242
+2001;1;2001-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;206800;318447
+2001;1;2001-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;247699;307696
+2001;2;2001-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;265389;310695
+2001;2;2001-06-30;Contrat de plus d'un mois;CDI;258105;292267
+2001;3;2001-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;636815;309018
+2001;3;2001-07-31;Contrat de plus d'un mois;CDI;256327;287432
+2001;3;2001-08-31;Contrat de plus d'un mois;CDI;192275;286026
+2002;1;2002-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;249571;294221
+2002;1;2002-01-31;Contrat de plus d'un mois;CDI;334324;272074
+2002;1;2002-02-28;Contrat de plus d'un mois;CDI;263798;281700
+2002;2;2002-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;273043;297719
+2002;2;2002-04-30;Contrat de plus d'un mois;CDI;278877;272380
+2002;3;2002-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;635353;310580
+2002;3;2002-07-31;Contrat de plus d'un mois;CDI;238831;264725
+2002;3;2002-09-30;Contrat de plus d'un mois;CDI;372639;265282
+2002;4;2002-10-31;Contrat de plus d'un mois;CDI;332883;260561
+2002;4;2002-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;190964;271794
+2002;4;2002-12-31;Contrat de plus d'un mois;CDI;201518;246255
+2003;1;2003-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;241247;283353
+2003;1;2003-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;232418;283728
+2003;2;2003-04-30;Contrat de plus d'un mois;CDI;248051;245213
+2003;2;2003-05-31;Contrat de plus d'un mois;CDI;209652;237211
+2003;2;2003-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;453894;341458
+2003;3;2003-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;546803;284442
+2003;3;2003-08-31;Contrat de plus d'un mois;CDI;160469;239601
+2003;4;2003-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;238505;291304
+2003;4;2003-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;207498;287302
+2004;1;2004-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;259849;305408
+2004;1;2004-01-31;Contrat de plus d'un mois;CDI;302862;248079
+2004;2;2004-05-31;Contrat de plus d'un mois;CDI;214596;241937
+2004;3;2004-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;210033;310148
+2004;3;2004-09-30;Contrat de plus d'un mois;CDI;341779;242487
+2005;1;2005-01-31;Contrat de plus d'un mois;CDI;316426;251873
+2005;2;2005-06-30;Contrat de plus d'un mois;CDI;225212;242593
+2005;3;2005-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;217964;324388
+2006;2;2006-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;258548;302747
+2006;2;2006-04-30;Contrat de plus d'un mois;CDI;267782;275594
+2006;2;2006-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;265092;308131
+2006;3;2006-07-31;Contrat de plus d'un mois;CDI;236148;267175
+2006;3;2006-09-30;Contrat de plus d'un mois;CDI;377678;267302
+2006;4;2006-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;338285;313431
+2006;4;2006-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;213988;321089
+2007;1;2007-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;249683;316623
+2007;2;2007-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;280525;314893
+2007;2;2007-04-30;Contrat de plus d'un mois;CDI;283044;284204
+2007;2;2007-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;266066;325210
+2007;3;2007-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;219358;331946
+2008;1;2008-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;213981;334813
+2008;1;2008-02-29;Contrat de plus d'un mois;CDI;261940;290889
+2008;1;2008-03-31;Contrat de plus d'un mois;CDI;278011;291518
+2008;2;2008-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;262072;318334
+2008;2;2008-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;415145;328651
+2008;2;2008-06-30;Contrat de plus d'un mois;CDI;276239;294147
+2008;3;2008-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;570747;315128
+2008;3;2008-07-31;Contrat de plus d'un mois;CDI;264644;295446
+2008;4;2008-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;246297;303084
+2008;4;2008-11-30;Contrat de plus d'un mois;CDI;248233;260097
+2009;1;2009-01-31;Contrat de plus d'un mois;CDI;297615;240923
+2009;1;2009-02-28;Contrat de plus d'un mois;CDI;204773;230825
+2009;1;2009-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;237949;285000
+2009;2;2009-04-30;Contrat de plus d'un mois;CDI;220356;224054
+2009;2;2009-06-30;Contrat de plus d'un mois;CDI;208228;223393
+2009;3;2009-08-31;Contrat de plus d'un mois;CDI;170343;231197
+2009;4;2009-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;323277;317597
+2009;4;2009-10-31;Contrat de plus d'un mois;CDI;285935;235802
+2009;4;2009-12-31;Contrat de plus d'un mois;CDI;185535;236955
+2010;2;2010-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;289244;321856
+2010;2;2010-04-30;Contrat de plus d'un mois;CDI;247493;253310
+2010;3;2010-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;549011;320661
+2010;3;2010-08-31;Contrat de plus d'un mois;CDI;196551;257569
+2010;4;2010-10-31;Contrat de plus d'un mois;CDI;311159;260384
+2010;4;2010-11-30;Contrat de plus d'un mois;CDI;260844;264861
+2011;1;2011-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;311006;337893
+2011;1;2011-01-31;Contrat de plus d'un mois;CDI;350862;276849
+2011;1;2011-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;217198;353473
+2011;1;2011-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;272930;334864
+2011;2;2011-04-30;Contrat de plus d'un mois;CDI;275645;284502
+2011;2;2011-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;387889;340716
+2011;3;2011-07-31;Contrat de plus d'un mois;CDI;254253;282733
+2011;4;2011-10-31;Contrat de plus d'un mois;CDI;346755;285910
+2012;1;2012-01-31;Contrat de plus d'un mois;CDI;353357;271970
+2012;1;2012-02-29;Contrat de plus d'un mois;CDI;233812;265092
+2012;1;2012-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;266620;340632
+2012;2;2012-04-30;Contrat de plus d'un mois;CDI;264858;266552
+2012;2;2012-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;270880;326925
+2012;2;2012-05-31;Contrat de plus d'un mois;CDI;223812;264273
+2012;3;2012-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;591544;324574
+2012;3;2012-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;223887;325375
+2012;3;2012-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;548398;324496
+2012;3;2012-09-30;Contrat de plus d'un mois;CDI;381325;257479
+2012;4;2012-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;257636;305969
+2012;4;2012-11-30;Contrat de plus d'un mois;CDI;243499;250466
+2013;1;2013-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;198604;323502
+2013;2;2013-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;268306;322187
+2013;2;2013-06-30;Contrat de plus d'un mois;CDI;225494;249004
+2013;3;2013-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;592168;328716
+2013;3;2013-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;220742;320159
+2013;3;2013-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;585172;329211
+2013;3;2013-09-30;Contrat de plus d'un mois;CDI;387988;253031
+2013;4;2013-10-31;Contrat de plus d'un mois;CDI;303482;249674
+2014;1;2014-01-31;Contrat de plus d'un mois;CDI;315967;250548
+2014;1;2014-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;200209;326156
+2014;1;2014-02-28;Contrat de plus d'un mois;CDI;217284;249565
+2014;1;2014-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;259987;322454
+2014;2;2014-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;304234;324541
+2014;2;2014-05-31;Contrat de plus d'un mois;CDI;207563;239312
+2014;3;2014-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;541538;322082
+2014;3;2014-07-31;Contrat de plus d'un mois;CDI;227994;246737
+2014;3;2014-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;209558;300146
+2014;3;2014-08-31;Contrat de plus d'un mois;CDI;179099;242258
+2014;3;2014-09-30;Contrat de plus d'un mois;CDI;393598;250515
+2014;4;2014-11-30;Contrat de plus d'un mois;CDI;231688;245193
+2015;1;2015-03-31;Contrat de plus d'un mois;CDI;243103;247381
+2015;2;2015-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;273955;328058
+2015;2;2015-06-30;Contrat de plus d'un mois;CDI;243232;254889
+2015;3;2015-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;550338;336420
+2015;3;2015-07-31;Contrat de plus d'un mois;CDI;236002;259023
+2015;3;2015-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;251338;341342
+2015;3;2015-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;589353;325357
+2015;3;2015-09-30;Contrat de plus d'un mois;CDI;386721;249776
+2016;1;2016-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;284339;356928
+2016;1;2016-03-31;Contrat de plus d'un mois;CDI;256265;269259
+2016;2;2016-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;311177;338379
+2016;2;2016-04-30;Contrat de plus d'un mois;CDI;265911;268641
+2016;2;2016-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;389042;343711
+2016;2;2016-06-30;Contrat de plus d'un mois;CDI;251382;270963
+2016;3;2016-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;562379;345805
+2016;3;2016-09-30;Contrat de plus d'un mois;CDI;419717;276523
+2016;4;2016-10-31;Contrat de plus d'un mois;CDI;332962;281197
+2017;1;2017-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;223002;358579
+2017;1;2017-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;288700;359428
+2017;2;2017-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;332247;371624
+2017;2;2017-05-31;Contrat de plus d'un mois;CDI;270750;308631
+2017;2;2017-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;404227;370129
+2017;2;2017-06-30;Contrat de plus d'un mois;CDI;290269;324018
+2017;3;2017-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;601260;366384
+2017;3;2017-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;635079;356068
+2017;4;2017-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;356452;357755
+2017;4;2017-10-31;Contrat de plus d'un mois;CDI;395975;326933
+2017;4;2017-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;306017;355447
+2017;4;2017-11-30;Contrat de plus d'un mois;CDI;324288;329153
+2018;1;2018-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;223264;359567
+2018;2;2018-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;314592;370842
+2018;2;2018-05-31;Contrat de plus d'un mois;CDI;285911;339307
+2018;2;2018-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;397711;357895
+2018;3;2018-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;612295;359690
+2018;3;2018-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;262936;361152
+2018;3;2018-09-30;Contrat de plus d'un mois;CDI;515845;342039
+2018;4;2018-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;304961;354992
+2018;4;2018-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;241381;369445
+2019;1;2019-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;349630;368877
+2019;1;2019-02-28;Contrat de plus d'un mois;CDI;310860;351586
+2019;2;2019-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;312661;356477
+2019;2;2019-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;394218;364055
+2019;2;2019-06-30;Contrat de plus d'un mois;CDI;312720;353866
+2019;3;2019-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;621959;370704
+2019;3;2019-07-31;Contrat de plus d'un mois;CDI;337951;354983
+2019;3;2019-08-31;Contrat de plus d'un mois;CDI;262012;349474
+2019;3;2019-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;717272;374118
+2019;4;2019-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;344380;352889
+2019;4;2019-10-31;Contrat de plus d'un mois;CDI;423400;351779
+2019;4;2019-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;247360;366107
+2020;1;2020-01-31;Contrat de plus d'un mois;CDI;459895;370207
+2020;1;2020-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;233129;369513
+2020;1;2020-02-29;Contrat de plus d'un mois;CDI;333357;378706
+2020;2;2020-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;158517;181217
+2020;2;2020-06-30;Contrat de plus d'un mois;CDI;273513;293548
+2020;3;2020-08-31;Contrat de plus d'un mois;CDI;262275;341394
+2020;4;2020-11-30;Contrat de plus d'un mois;CDI;260933;258785
+2021;1;2021-03-31;Contrat de plus d'un mois;CDI;313735;308763
+2021;2;2021-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;360108;400021
+2021;3;2021-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;320130;398720
+2021;3;2021-08-31;Contrat de plus d'un mois;CDI;310237;390605
+2021;4;2021-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;390359;412261
+2021;4;2021-10-31;Contrat de plus d'un mois;CDI;476037;408787
+2021;4;2021-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;253341;393151
+2021;4;2021-12-31;Contrat de plus d'un mois;CDI;295123;407281
+2022;1;2022-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;379830;401720
+2022;1;2022-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;249248;403956
+2022;1;2022-02-28;Contrat de plus d'un mois;CDI;364210;415743
+2022;2;2022-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;346383;404118
+2022;2;2022-05-31;Contrat de plus d'un mois;CDI;395235;434322
+2022;3;2022-08-31;Contrat de plus d'un mois;CDI;347088;440247
+2022;4;2022-10-31;Contrat de plus d'un mois;CDI;518500;433742
+2022;4;2022-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;325989;385239
+2022;4;2022-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;249709;401555
+2000;1;2000-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;277127;324376
+2000;1;2000-01-31;Contrat de plus d'un mois;CDI;279277;226695
+2000;1;2000-02-29;Contrat de plus d'un mois;CDI;220985;229874
+2000;2;2000-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;275935;322446
+2000;2;2000-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;296683;338773
+2000;3;2000-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;627534;319012
+2000;4;2000-12-31;Contrat de plus d'un mois;CDI;236644;307177
+2001;1;2001-03-31;Contrat de plus d'un mois;CDI;295079;290440
+2001;2;2001-04-30;Contrat de plus d'un mois;CDI;290605;290300
+2001;2;2001-05-31;Contrat de plus d'un mois;CDI;262069;294911
+2001;2;2001-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;400880;310781
+2001;3;2001-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;409187;292849
+2001;3;2001-09-30;Contrat de plus d'un mois;CDI;373557;274720
+2001;4;2001-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;330775;305451
+2001;4;2001-10-31;Contrat de plus d'un mois;CDI;359563;275155
+2001;4;2001-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;251523;300035
+2001;4;2001-11-30;Contrat de plus d'un mois;CDI;268791;268116
+2001;4;2001-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;209687;313575
+2001;4;2001-12-31;Contrat de plus d'un mois;CDI;230987;292743
+2002;1;2002-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;189488;293780
+2002;1;2002-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;242388;301783
+2002;3;2002-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;424728;290118
+2002;4;2002-11-30;Contrat de plus d'un mois;CDI;253686;262029
+2003;1;2003-01-31;Contrat de plus d'un mois;CDI;303012;247095
+2003;1;2003-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;184811;289859
+2003;1;2003-03-31;Contrat de plus d'un mois;CDI;255626;251252
+2003;2;2003-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;256307;284264
+2003;3;2003-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;171477;273724
+2003;3;2003-09-30;Contrat de plus d'un mois;CDI;352078;243739
+2003;4;2003-10-31;Contrat de plus d'un mois;CDI;305805;243807
+2004;1;2004-02-29;Contrat de plus d'un mois;CDI;223810;241875
+2004;1;2004-03-31;Contrat de plus d'un mois;CDI;248632;237925
+2004;2;2004-04-30;Contrat de plus d'un mois;CDI;243367;245712
+2004;2;2004-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;258452;298845
+2004;3;2004-07-31;Contrat de plus d'un mois;CDI;202321;237613
+2004;3;2004-08-31;Contrat de plus d'un mois;CDI;174759;246068
+2004;3;2004-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;442668;300183
+2004;4;2004-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;304194;300956
+2004;4;2004-11-30;Contrat de plus d'un mois;CDI;246689;244468
+2004;4;2004-12-31;Contrat de plus d'un mois;CDI;190122;236093
+2005;2;2005-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;269749;305532
+2005;2;2005-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;400419;309099
+2005;3;2005-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;594082;315853
+2005;3;2005-07-31;Contrat de plus d'un mois;CDI;198670;232788
+2005;3;2005-08-31;Contrat de plus d'un mois;CDI;185494;262459
+2005;3;2005-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;458797;307427
+2005;3;2005-09-30;Contrat de plus d'un mois;CDI;359731;254446
+2005;4;2005-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;313032;301535
+2005;4;2005-12-31;Contrat de plus d'un mois;CDI;210419;266868
+2006;1;2006-02-28;Contrat de plus d'un mois;CDI;248285;272397
+2006;1;2006-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;222692;276469
+2006;2;2006-05-31;Contrat de plus d'un mois;CDI;255973;288049
+2006;2;2006-06-30;Contrat de plus d'un mois;CDI;244723;272656
+2006;3;2006-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;206308;312046
+2006;3;2006-08-31;Contrat de plus d'un mois;CDI;188275;268055
+2006;4;2006-10-31;Contrat de plus d'un mois;CDI;339944;266570
+2007;1;2007-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;279686;308575
+2007;1;2007-02-28;Contrat de plus d'un mois;CDI;251383;278214
+2007;1;2007-03-31;Contrat de plus d'un mois;CDI;274234;282480
+2007;2;2007-05-31;Contrat de plus d'un mois;CDI;248482;290063
+2007;2;2007-06-30;Contrat de plus d'un mois;CDI;270744;295555
+2007;3;2007-08-31;Contrat de plus d'un mois;CDI;205523;290840
+2007;4;2007-10-31;Contrat de plus d'un mois;CDI;377849;293914
+2007;4;2007-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;273017;327705
+2007;4;2007-11-30;Contrat de plus d'un mois;CDI;281608;286045
+2008;1;2008-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;300177;337942
+2008;1;2008-01-31;Contrat de plus d'un mois;CDI;361858;288409
+2008;1;2008-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;263235;333765
+2008;2;2008-04-30;Contrat de plus d'un mois;CDI;280131;272999
+2008;3;2008-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;195711;297060
+2008;3;2008-08-31;Contrat de plus d'un mois;CDI;201884;284747
+2008;3;2008-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;549540;327700
+2008;3;2008-09-30;Contrat de plus d'un mois;CDI;438300;291952
+2008;4;2008-10-31;Contrat de plus d'un mois;CDI;341765;277285
+2008;4;2008-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;217654;296353
+2008;4;2008-12-31;Contrat de plus d'un mois;CDI;194785;241846
+2009;2;2009-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;250460;297714
+2009;2;2009-05-31;Contrat de plus d'un mois;CDI;189198;216693
+2009;2;2009-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;393456;318600
+2009;3;2009-07-31;Contrat de plus d'un mois;CDI;206274;230077
+2009;3;2009-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;525927;312895
+2009;4;2009-11-30;Contrat de plus d'un mois;CDI;237212;240297
+2009;4;2009-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;230542;325328
+2010;1;2010-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;275625;314020
+2010;1;2010-01-31;Contrat de plus d'un mois;CDI;294793;239750
+2010;1;2010-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;194579;317586
+2010;1;2010-02-28;Contrat de plus d'un mois;CDI;214423;243494
+2010;3;2010-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;236988;332528
+2010;3;2010-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;546768;328229
+2010;4;2010-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;334420;330122
+2010;4;2010-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;285685;333741
+2011;1;2011-02-28;Contrat de plus d'un mois;CDI;245619;280788
+2011;2;2011-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;315646;351463
+2011;2;2011-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;315986;347652
+2011;2;2011-05-31;Contrat de plus d'un mois;CDI;269501;291148
+2011;2;2011-06-30;Contrat de plus d'un mois;CDI;254984;284969
+2011;3;2011-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;580507;344665
+2011;3;2011-09-30;Contrat de plus d'un mois;CDI;434065;291338
+2011;4;2011-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;347562;338817
+2012;1;2012-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;208660;323914
+2012;1;2012-03-31;Contrat de plus d'un mois;CDI;260880;275643
+2012;2;2012-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;309937;331342
+2012;2;2012-06-30;Contrat de plus d'un mois;CDI;238539;261990
+2012;3;2012-08-31;Contrat de plus d'un mois;CDI;192494;258413
+2012;4;2012-10-31;Contrat de plus d'un mois;CDI;320332;256603
+2013;1;2013-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;299089;323244
+2013;1;2013-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;253932;323577
+2013;1;2013-03-31;Contrat de plus d'un mois;CDI;230338;245633
+2013;2;2013-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;300243;314145
+2013;3;2013-07-31;Contrat de plus d'un mois;CDI;245905;253755
+2013;4;2013-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;271013;332469
+2013;4;2013-12-31;Contrat de plus d'un mois;CDI;190073;249200
+2014;1;2014-03-31;Contrat de plus d'un mois;CDI;242545;253313
+2014;2;2014-06-30;Contrat de plus d'un mois;CDI;231628;255419
+2014;3;2014-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;619335;338230
+2014;4;2014-10-31;Contrat de plus d'un mois;CDI;289801;243558
+2014;4;2014-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;233782;325750
+2014;4;2014-12-31;Contrat de plus d'un mois;CDI;188943;245065
+2015;1;2015-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;309301;331030
+2015;1;2015-02-28;Contrat de plus d'un mois;CDI;213223;244128
+2015;1;2015-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;271720;325584
+2015;2;2015-04-30;Contrat de plus d'un mois;CDI;248634;253596
+2015;3;2015-08-31;Contrat de plus d'un mois;CDI;201912;263906
+2015;4;2015-10-31;Contrat de plus d'un mois;CDI;304441;260349
+2015;4;2015-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;301701;346449
+2015;4;2015-11-30;Contrat de plus d'un mois;CDI;258307;262778
+2015;4;2015-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;226523;329400
+2015;4;2015-12-31;Contrat de plus d'un mois;CDI;196827;261384
+2016;1;2016-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;233425;352179
+2016;2;2016-05-31;Contrat de plus d'un mois;CDI;248026;278182
+2016;3;2016-07-31;Contrat de plus d'un mois;CDI;248858;276618
+2016;3;2016-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;624914;352516
+2016;4;2016-12-31;Contrat de plus d'un mois;CDI;226335;309555
+2017;1;2017-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;346146;347656
+2017;1;2017-01-31;Contrat de plus d'un mois;CDI;370508;283061
+2017;1;2017-02-28;Contrat de plus d'un mois;CDI;256960;291352
+2017;2;2017-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;323482;365283
+2017;4;2017-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;241862;379214
+2018;1;2018-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;344842;355321
+2018;1;2018-01-31;Contrat de plus d'un mois;CDI;426595;332134
+2018;1;2018-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;292807;373072
+2018;1;2018-03-31;Contrat de plus d'un mois;CDI;320857;335165
+2018;2;2018-04-30;Contrat de plus d'un mois;CDI;328732;337041
+2018;2;2018-06-30;Contrat de plus d'un mois;CDI;311323;340765
+2018;3;2018-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;651891;360905
+2018;4;2018-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;367032;365205
+2018;4;2018-11-30;Contrat de plus d'un mois;CDI;339581;343491
+2018;4;2018-12-31;Contrat de plus d'un mois;CDI;251924;350071
+2019;1;2019-01-31;Contrat de plus d'un mois;CDI;440369;349747
+2019;1;2019-03-31;Contrat de plus d'un mois;CDI;338613;354798
+2019;2;2019-04-30;Contrat de plus d'un mois;CDI;354017;356782
+2019;2;2019-05-31;Contrat de plus d'un mois;CDI;298610;344819
+2019;3;2019-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;257128;352296
+2019;4;2019-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;310061;374783
+2020;1;2020-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;353600;376933
+2020;1;2020-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;224298;275503
+2020;2;2020-05-31;Contrat de plus d'un mois;CDI;148601;173351
+2020;2;2020-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;412429;354402
+2020;3;2020-07-31;Contrat de plus d'un mois;CDI;282619;315176
+2020;3;2020-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;288689;373432
+2020;3;2020-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;696855;356295
+2020;4;2020-10-31;Contrat de plus d'un mois;CDI;363307;310353
+2021;1;2021-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;320340;345831
+2021;1;2021-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;271732;335917
+2021;2;2021-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;246228;289590
+2021;2;2021-04-30;Contrat de plus d'un mois;CDI;287462;302890
+2021;2;2021-06-30;Contrat de plus d'un mois;CDI;381657;404793
+2021;3;2021-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;607666;402622
+2021;3;2021-07-31;Contrat de plus d'un mois;CDI;345907;388764
+2021;3;2021-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;803043;412650
+2021;3;2021-09-30;Contrat de plus d'un mois;CDI;616713;394101
+2022;1;2022-03-31;Contrat de plus d'un mois;CDI;413903;415703
+2022;2;2022-04-30;Contrat de plus d'un mois;CDI;397897;424361
+2022;2;2022-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;376912;404769
+2022;2;2022-06-30;Contrat de plus d'un mois;CDI;384352;425766
+2022;3;2022-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;592048;391879
+2022;3;2022-07-31;Contrat de plus d'un mois;CDI;361268;408296
+2022;3;2022-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;830629;423757
+2022;4;2022-12-31;Contrat de plus d'un mois;CDI;303526;426483
+2000;1;2000-03-31;Contrat de plus d'un mois;CDI;248032;240090
+2000;2;2000-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;407013;312072
+2000;3;2000-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;204246;326991
+2000;3;2000-08-31;Contrat de plus d'un mois;CDI;195099;288392
+2000;3;2000-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;434132;312622
+2000;3;2000-09-30;Contrat de plus d'un mois;CDI;362172;265607
+2000;4;2000-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;339022;316070
+2000;4;2000-10-31;Contrat de plus d'un mois;CDI;382403;296475
+2000;4;2000-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;265032;313510
+2001;1;2001-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;268525;311340
+2001;1;2001-01-31;Contrat de plus d'un mois;CDI;372793;300179
+2001;1;2001-02-28;Contrat de plus d'un mois;CDI;283281;301727
+2001;2;2001-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;274022;306785
+2001;3;2001-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;189135;304497
+2002;1;2002-03-31;Contrat de plus d'un mois;CDI;280011;279203
+2002;2;2002-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;248746;299295
+2002;2;2002-05-31;Contrat de plus d'un mois;CDI;232304;268787
+2002;2;2002-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;385011;291895
+2002;2;2002-06-30;Contrat de plus d'un mois;CDI;239566;264784
+2002;3;2002-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;179269;288770
+2002;3;2002-08-31;Contrat de plus d'un mois;CDI;176464;263554
+2002;4;2002-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;298641;284453
+2002;4;2002-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;232872;289696
+2003;1;2003-02-28;Contrat de plus d'un mois;CDI;230834;247885
+2003;2;2003-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;235863;277101
+2003;2;2003-06-30;Contrat de plus d'un mois;CDI;225454;248863
+2003;3;2003-07-31;Contrat de plus d'un mois;CDI;214089;248836
+2003;3;2003-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;439694;289945
+2003;4;2003-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;302945;294394
+2003;4;2003-11-30;Contrat de plus d'un mois;CDI;238317;244275
+2003;4;2003-12-31;Contrat de plus d'un mois;CDI;203353;244711
+2004;1;2004-02-29;Contrat de plus d'un mois;CDD de plus d'un mois;191954;293803
+2004;1;2004-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;250510;294559
+2004;2;2004-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;267853;307230
+2004;2;2004-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;432786;319775
+2004;2;2004-06-30;Contrat de plus d'un mois;CDI;228294;243134
+2004;3;2004-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;560694;300308
+2004;4;2004-10-31;Contrat de plus d'un mois;CDI;298295;243844
+2004;4;2004-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;261181;304633
+2004;4;2004-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;214363;307117
+2005;1;2005-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;270792;304911
+2005;1;2005-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;189854;305101
+2005;1;2005-02-28;Contrat de plus d'un mois;CDI;227647;248189
+2005;1;2005-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;248003;310136
+2005;1;2005-03-31;Contrat de plus d'un mois;CDI;244199;247538
+2005;2;2005-04-30;Contrat de plus d'un mois;CDI;256215;254303
+2005;2;2005-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;274620;313759
+2005;2;2005-05-31;Contrat de plus d'un mois;CDI;230706;254952
+2005;4;2005-10-31;Contrat de plus d'un mois;CDI;327669;262635
+2005;4;2005-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;261354;310083
+2005;4;2005-11-30;Contrat de plus d'un mois;CDI;264101;265161
+2005;4;2005-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;212500;312281
+2006;1;2006-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;265078;288731
+2006;1;2006-01-31;Contrat de plus d'un mois;CDI;342217;265855
+2006;1;2006-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;178356;287878
+2006;1;2006-03-31;Contrat de plus d'un mois;CDI;269713;272364
+2006;2;2006-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;385556;312975
+2006;3;2006-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;618821;326500
+2006;3;2006-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;480070;317971
+2006;4;2006-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;266437;317203
+2006;4;2006-11-30;Contrat de plus d'un mois;CDI;270124;272286
+2006;4;2006-12-31;Contrat de plus d'un mois;CDI;214290;283667
+2007;1;2007-01-31;Contrat de plus d'un mois;CDI;353260;278041
+2007;1;2007-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;196324;318466
+2007;2;2007-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;395600;320655
+2007;3;2007-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;627442;320355
+2007;3;2007-07-31;Contrat de plus d'un mois;CDI;271255;294301
+2007;3;2007-09-30;Contrat de plus d'un mois;CDD de plus d'un mois;508840;329982
+2007;3;2007-09-30;Contrat de plus d'un mois;CDI;413512;292242
+2007;4;2007-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;362475;331190
+2007;4;2007-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;225942;328877
+2007;4;2007-12-31;Contrat de plus d'un mois;CDI;221586;287231
+2008;2;2008-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;277463;298726
+2008;2;2008-05-31;Contrat de plus d'un mois;CDI;232752;272384
+2008;4;2008-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;326486;313042
+2009;1;2009-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;263102;299810
+2009;1;2009-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;178951;292138
+2009;1;2009-03-31;Contrat de plus d'un mois;CDI;224954;225255
+2009;2;2009-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;269032;300439
+2009;3;2009-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;544826;310282
+2009;3;2009-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;212388;307456
+2009;3;2009-09-30;Contrat de plus d'un mois;CDI;343924;230296
+2009;4;2009-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;273993;323006
+2010;1;2010-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;275674;327335
+2010;1;2010-03-31;Contrat de plus d'un mois;CDI;253313;252036
+2010;2;2010-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;284682;327923
+2010;2;2010-05-31;Contrat de plus d'un mois;CDI;228773;260303
+2010;2;2010-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;420609;343613
+2010;2;2010-06-30;Contrat de plus d'un mois;CDI;245516;260854
+2010;3;2010-07-31;Contrat de plus d'un mois;CDI;223780;249577
+2010;3;2010-09-30;Contrat de plus d'un mois;CDI;375466;252681
+2010;4;2010-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;220378;313429
+2010;4;2010-12-31;Contrat de plus d'un mois;CDI;201953;261756
+2011;1;2011-03-31;Contrat de plus d'un mois;CDI;269619;274956
+2011;3;2011-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;572467;332976
+2011;3;2011-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;264006;374269
+2011;3;2011-08-31;Contrat de plus d'un mois;CDI;219480;289755
+2011;4;2011-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;280569;333126
+2011;4;2011-11-30;Contrat de plus d'un mois;CDI;275719;282677
+2011;4;2011-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;228087;335831
+2011;4;2011-12-31;Contrat de plus d'un mois;CDI;214474;284141
+2012;1;2012-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;314146;330208
+2012;2;2012-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;367704;324384
+2012;3;2012-07-31;Contrat de plus d'un mois;CDI;249713;261564
+2012;4;2012-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;349139;330007
+2012;4;2012-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;222741;327589
+2012;4;2012-12-31;Contrat de plus d'un mois;CDI;189466;254795
+2013;1;2013-01-31;Contrat de plus d'un mois;CDI;316534;250328
+2013;1;2013-02-28;Contrat de plus d'un mois;CDI;218623;251493
+2013;2;2013-04-30;Contrat de plus d'un mois;CDI;255790;251811
+2013;2;2013-05-31;Contrat de plus d'un mois;CDI;210069;247900
+2013;2;2013-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;344960;308083
+2013;3;2013-08-31;Contrat de plus d'un mois;CDI;185986;251093
+2013;4;2013-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;327435;323842
+2013;4;2013-11-30;Contrat de plus d'un mois;CDI;236320;252256
+2013;4;2013-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;229415;323923
+2014;1;2014-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;302699;324375
+2014;2;2014-04-30;Contrat de plus d'un mois;CDI;248142;248335
+2014;2;2014-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;266656;310095
+2014;2;2014-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;389846;345627
+2014;4;2014-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;316267;323244
+2014;4;2014-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;268683;322720
+2015;1;2015-01-31;Contrat de plus d'un mois;CDI;313492;250483
+2015;1;2015-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;198222;321381
+2015;2;2015-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;307422;337033
+2015;2;2015-05-31;Contrat de plus d'un mois;CDI;205360;244024
+2015;2;2015-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;396696;334564
+2015;4;2015-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;318925;336625
+2016;1;2016-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;328939;352176
+2016;1;2016-01-31;Contrat de plus d'un mois;CDI;336915;270635
+2016;1;2016-02-29;Contrat de plus d'un mois;CDI;245683;272210
+2016;2;2016-05-31;Contrat de plus d'un mois;CDD de plus d'un mois;313976;349678
+2016;3;2016-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;276322;371272
+2016;3;2016-08-31;Contrat de plus d'un mois;CDI;219578;285192
+2016;4;2016-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;343356;354555
+2016;4;2016-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;305974;355956
+2016;4;2016-11-30;Contrat de plus d'un mois;CDI;276344;282282
+2016;4;2016-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;232717;354009
+2017;1;2017-03-31;Contrat de plus d'un mois;CDI;286552;296483
+2017;2;2017-04-30;Contrat de plus d'un mois;CDI;286526;301178
+2017;3;2017-07-31;Contrat de plus d'un mois;CDI;278207;303066
+2017;3;2017-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;259912;357584
+2017;3;2017-08-31;Contrat de plus d'un mois;CDI;235642;309955
+2017;3;2017-09-30;Contrat de plus d'un mois;CDI;486926;322588
+2017;4;2017-12-31;Contrat de plus d'un mois;CDI;245414;349204
+2018;1;2018-02-28;Contrat de plus d'un mois;CDI;297304;336430
+2018;2;2018-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;334509;363513
+2018;3;2018-07-31;Contrat de plus d'un mois;CDI;319205;338239
+2018;3;2018-08-31;Contrat de plus d'un mois;CDI;257247;340857
+2018;4;2018-10-31;Contrat de plus d'un mois;CDI;429431;350119
+2019;1;2019-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;227293;367943
+2019;1;2019-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;282955;363834
+2019;2;2019-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;354598;380710
+2019;3;2019-09-30;Contrat de plus d'un mois;CDI;566799;362634
+2019;4;2019-11-30;Contrat de plus d'un mois;CDI;350356;365171
+2019;4;2019-12-31;Contrat de plus d'un mois;CDI;262240;354427
+2020;1;2020-03-31;Contrat de plus d'un mois;CDI;282365;281517
+2020;2;2020-04-30;Contrat de plus d'un mois;CDD de plus d'un mois;86869;101573
+2020;2;2020-04-30;Contrat de plus d'un mois;CDI;102208;106829
+2020;3;2020-07-31;Contrat de plus d'un mois;CDD de plus d'un mois;557919;361411
+2020;3;2020-09-30;Contrat de plus d'un mois;CDI;483443;305853
+2020;4;2020-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;353151;375122
+2020;4;2020-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;264140;299653
+2020;4;2020-12-31;Contrat de plus d'un mois;CDD de plus d'un mois;181481;277942
+2020;4;2020-12-31;Contrat de plus d'un mois;CDI;204394;278364
+2021;1;2021-01-31;Contrat de plus d'un mois;CDI;371353;305174
+2021;1;2021-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;207195;336627
+2021;1;2021-02-28;Contrat de plus d'un mois;CDI;255587;290628
+2021;2;2021-05-31;Contrat de plus d'un mois;CDI;330291;381571
+2021;2;2021-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;498278;420444
+2021;4;2021-11-30;Contrat de plus d'un mois;CDD de plus d'un mois;352420;403957
+2021;4;2021-11-30;Contrat de plus d'un mois;CDI;418087;414438
+2022;1;2022-01-31;Contrat de plus d'un mois;CDI;504710;404626
+2022;1;2022-03-31;Contrat de plus d'un mois;CDD de plus d'un mois;304231;390534
+2022;2;2022-06-30;Contrat de plus d'un mois;CDD de plus d'un mois;451693;401949
+2022;3;2022-08-31;Contrat de plus d'un mois;CDD de plus d'un mois;335646;418876
+2022;3;2022-09-30;Contrat de plus d'un mois;CDI;685656;440368
+2022;4;2022-10-31;Contrat de plus d'un mois;CDD de plus d'un mois;382254;392120
+2022;4;2022-11-30;Contrat de plus d'un mois;CDI;425323;424394
+2023;1;2023-01-31;Contrat de plus d'un mois;CDD de plus d'un mois;366756;384401
+2023;1;2023-01-31;Contrat de plus d'un mois;CDI;535791;422199
+2023;1;2023-02-28;Contrat de plus d'un mois;CDD de plus d'un mois;243429;392442
+2023;1;2023-02-28;Contrat de plus d'un mois;CDI;375202;429319
